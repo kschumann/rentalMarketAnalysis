@@ -11,25 +11,25 @@ include "rental-market.php";
 	<link rel=stylesheet href="styles.css" type="text/css" />
 </head>
 <body>
-<h2 class="section-header">1020 Fairmont</h2>
+<h2 class="section-header"></h2>
 <div class="description">"Columbia Heights" | 20001 | 2 BR | 1 Bth | 500 - 700 sqft | <a target="_blank" href="https://washingtondc.craigslist.org/search/apa?query=Columbia+heights&search_distance=4&postal=20001&min_bedrooms=2&max_bedrooms=2&min_bathrooms=1&max_bathrooms=1&minSqft=500&maxSqft=700&availabilityMode=0&sale_date=all+dates">craigslist</a></div>
 <div class="chart-container" >
 	<canvas id="aptListings1" ></canvas>
 </div>
 
-<h2 class="section-header">764 Quebec Place - Upstairs</h2>
+<h2 class="section-header"></h2>
 <div class="description">"Columbia Heights/Petworth" | 20010 | 3 BR | 1 Bth | <a target="_blank" href="https://washingtondc.craigslist.org/search/doc/hhh?query=columbia+heights+petworth&search_distance=4&postal=20010&min_bedrooms=3&max_bedrooms=3&min_bathrooms=1&max_bathrooms=2&availabilityMode=0&sale_date=all+dates">craigslist</a></div>
 <div class="chart-container" >
 	<canvas id="aptListings2" ></canvas>
 </div>
 
-<h2 class="section-header">764 Quebec Pls - Basement</h2>
+<h2 class="section-header"></h2>
 <div class="description">"Columbia Heights/Petworth" | 20010 | 1 BR | 1 Bth | 450 - 650 sqft | <a target="_blank" href="https://washingtondc.craigslist.org/search/doc/apa?query=columbia+heights+petworth&search_distance=4&postal=20010&min_bedrooms=1&max_bedrooms=1&min_bathrooms=1&max_bathrooms=1&minSqft=450&maxSqft=650&availabilityMode=0&sale_date=all+dates">craigslist</a></div>
 <div class="chart-container" >
 	<canvas id="aptListings3" ></canvas>
 </div>
 
-<h2 class="section-header">605 River Dr</h2>
+<h2 class="section-header"></h2>
 <div class="description">"Front Royal" | 22630 | 3 BR | 1-2 Bth | - 1600 sqft | <a target="_blank" href="https://winchester.craigslist.org/search/apa?query=Front+royal+va&search_distance=18&postal=22630&min_bedrooms=3&max_bedrooms=3&min_bathrooms=1&max_bathrooms=2&maxSqft=1600&availabilityMode=0&sale_date=all+dates">craigslist</a></div>
 <div class="chart-container" >
 	<canvas id="aptListings4" ></canvas>
